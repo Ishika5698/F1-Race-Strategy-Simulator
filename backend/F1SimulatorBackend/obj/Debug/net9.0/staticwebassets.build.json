@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "brmPBJNHTrWIbnJn5zpGmnn/CwMkl5dveGYZAuFQo1c=",
+  "Source": "F1SimulatorBackend",
+  "BasePath": "_content/F1SimulatorBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

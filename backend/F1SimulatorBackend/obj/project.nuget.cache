@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWyApfWrjc4=",
+  "success": true,
+  "projectFilePath": "/Users/tara/Desktop/F1RaceStrategySimulator/backend/F1SimulatorBackend/F1SimulatorBackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/tara/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/tara/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
